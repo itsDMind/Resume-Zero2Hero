@@ -11,7 +11,7 @@ In this code repository, I am going to develop sample code for routine questions
 ## 🛠 Challenges
 
 ## Authors
-- [@octokatherine](https://www.github.com/itsDMind)
+- [@Hooman (DMind) Dehghani](https://www.github.com/itsDMind)
 - 
 ## Feedback
 If you have any feedback, please reach out to us at dmind.me@proton.me
