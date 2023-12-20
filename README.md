@@ -86,15 +86,15 @@ I implement all of these issues with all the programming stack that I know:
 
 ### Problem 18: Trie Implementation
 
-    - Implement a trie data structure.
+  - Implement a trie data structure.
 
 ### Problem 19: Depth-First Search (DFS) on a Graph
 
-    - Perform depth-first search on a graph and print the traversal order.
+  - Perform depth-first search on a graph and print the traversal order.
 
 ### Problem 20: Breadth-First Search (BFS) on a Graph
 
-    - Perform breadth-first search on a graph and print the traversal order.
+  - Perform breadth-first search on a graph and print the traversal order.
 
 ## 🛠 Challenges (Real Projects)
 
