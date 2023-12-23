@@ -1,0 +1,5 @@
+# a basic load balancer using Go, distributing traffic across multiple servers...(ROUND-ROBIN)
+
+The provided Go implementation represents a basic round-robin load balancer designed to evenly distribute incoming HTTP requests across a set of backend servers. The core components include a LoadBalancer struct managing server selection and a Proxy struct for forwarding requests to the chosen server. The load balancer utilizes a mutex to ensure safe concurrent access to the index tracking the current server in a round-robin manner. Backend servers are defined in the main function, and the load balancer listens on port 8080.
+
+This straightforward load balancer serves as a foundation for distributing traffic among multiple servers, helping to enhance system scalability and improve overall application performance. It's important to note that this implementation is minimalistic, and in real-world scenarios, considerations such as health checks, dynamic server management, and robust error handling would be crucial for a production-grade load balancer.
